@@ -1,6 +1,6 @@
-id=systemui_vayu_overlay
+id=Vayu_Fix_Overlay
 name=Vayu Fix Overlay
-version=v1.2
+version=v1.3
 versionCode=11
 author=HeavenTreex
 description= Status Bar Correction.
