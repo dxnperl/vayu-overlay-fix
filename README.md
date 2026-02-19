@@ -1,3 +1,8 @@
-**Correction of the status bar margin in the rom Clover Project 3.5, Vayu/Bhima device**
+---
+Fix padding status bar on vayu
+---
 
-If you use KernelSU Next, you will need this plugin [meta-overlayfs](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/tag/v1.3.1)
+<p align="center">
+  <img src="src/img.png" style="border-radius: 16px;" />
+    </p>
+    
